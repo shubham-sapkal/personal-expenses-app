@@ -25,7 +25,26 @@ Please adhere to this project's `code of conduct`.
 - Fullscreen mode
 - Cross platform
 
-  
+## Installations
+
+To run this project, run following commands :
+
+```bash
+  git clone https://github.com/shubham-sapkal/personal-expenses-app
+```
+
+```bash
+  cd persoonal-expenses-app
+```
+
+``` bash
+  flutter pug get
+```
+
+``` bash
+  flutter run
+```
+
 ## Screenshots
 
   
