@@ -15,13 +15,13 @@ class AdaptiveFlatButton extends StatelessWidget {
         ? CupertinoButton(
             child: Text(
               text,
-              style: TextStyle(fontWeight: FontWeight.bold),
+              style: const TextStyle(fontWeight: FontWeight.bold),
             ),
             onPressed: handler,
           )
         : FlatButton(
             textColor: Theme.of(context).primaryColor,
-            child: Text(
+            child: const Text(
               'Choose date!',
               style: TextStyle(fontWeight: FontWeight.bold),
             ),
