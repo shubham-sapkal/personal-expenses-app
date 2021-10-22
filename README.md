@@ -47,7 +47,16 @@ To run this project, run following commands :
 
 ## Screenshots
 
-  
+![Empty Home Screenshot](https://github.com/shubham-sapkal/personal-expenses-app/blob/master/screenshots/1-EmptyList.jpeg)
+
+![Adding Data Screenshot](https://github.com/shubham-sapkal/personal-expenses-app/blob/master/screenshots/2-AddedData.jpeg)
+
+![Home Data Screenshot](https://github.com/shubham-sapkal/personal-expenses-app/blob/master/screenshots/3-DataAdded.jpeg)
+
+![Landspace List Screenshot](https://github.com/shubham-sapkal/personal-expenses-app/blob/master/screenshots/4-landspaceList.jpeg)
+
+![Landspace Chart Screenshot](https://github.com/shubham-sapkal/personal-expenses-app/blob/master/screenshots/5-landspaceChart.jpeg)
+
 ## Feedback
 
 If you have any feedback, please reach out to us at shubhamsapkal7052@gmail.com
